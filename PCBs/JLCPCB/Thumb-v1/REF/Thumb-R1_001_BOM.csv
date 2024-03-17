@@ -1,0 +1,18 @@
+Comment,Description,Designator,Quantity,Man. Part Number
+
+"D2LS-21","Compact Surface-mounting Switch for long durability","BTN.SW.3, BTN.SW.4, BTN.SW.6, BTN.SW.8, LBS.SW.1, LBS.SW.2","6",""
+"0805","0805, X5R or better, Chip resistor, 1/8W 100PPM, Chip resistor","LED.C.20, LED.C.23, LED.R.9, LED.R.16, MCU.C.1, MCU.C.4, MCU.C.5, MCU.C.6, MCU.C.7, MCU.C.8, MCU.C.9, MCU.C.22, MCU.R.1, MCU.R.8, MOS.C.10, MOS.C.11, MOS.R.3, MOS.R.4, MOS.R.5, REG.C.12, REG.C.13, REG.C.14, REG.C.15, REG.C.16, REG.C.17, REG.C.18, SCW.R.1, SCW.R.2, SCW.R.3, SCW.R.4, USB.R.6, USB.R.7, USB.R.12, USB.R.13, USB.R.14, USB.R.15","36",""
+"IN-PI55TATPRPGPB","ADDRESS LED DISCRETE SERIAL RGB","LED.D.1, LED.D.3","2",""
+"IPC-7351 Fiducial 1mm","IPC-7351 Fiducial 1mm","MCH.FID.1, MCH.FID.2","2",""
+"Atmel_ICSP","6-pin 0.100"" ICSP header","MCU.J.1","1",""
+"HEADER2","2-pin 0.100"" header","MCU.J.2","1",""
+"ATMEGA32U4RC-AU","IC MCU 8BIT 32KB FLASH 44TQFP","MCU.U.1","1",""
+"LFXTAL055663BULK","8MHz ±20ppm Crystal 18pF 150 Ohms 4-SMD, No Lead","MCU.Y.1","1",""
+"PMW3360DM-T2QU","Optical Gaming Navigation Sensor","MOS.U.2","1",""
+"AP2202K-3.3","3.3V 150mA LDO regulator","REG.U.3","1",""
+"AP2204K-1.8","Linear Voltage Regulator IC 1 Output 150mA SOT-23-5","REG.U.4","1",""
+"IR12-21C/TR8 or VSMB10940","Infrared (IR) Emitter 880nm 1.3V 50mA 1mW/sr @ 20mA 30° 2-SMD, No Lead","SCW.D.11, SCW.D.12","2",""
+"PT26-51B/TR8 or PT12-21B/TR8","Phototransistor 940nm Side View 1206 (3216 Metric)","SCW.Qt.1, SCW.Qt.2","2",""
+"ACML-0805-601-T","FERRITE BEAD 600 OHM 0805 1LN","USB.FB.1, USB.FB.2, USB.FB.3","3",""
+"DX07S016JA1R1500","USB-C (USB TYPE-C) USB 2.0 Receptacle Connector 24 (16+8 Dummy) Position Surface Mount, Right Angle; Through Hole","USB.J.3","1",""
+"IP4220CZ6,125","TVS DIODE 5.5V 6TSOP (Low capacitance, USB)","USB.Z.1","1",""

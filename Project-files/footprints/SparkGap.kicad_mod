@@ -1,0 +1,14 @@
+(footprint "SparkGap" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr exclude_from_bom)
+  (fp_text reference "SPG**" (at 1.67 -5.077 270 unlocked) (layer "Cmts.User") hide
+      (effects (font (size 1 1) (thickness 0.25)) (justify left bottom))
+    (tstamp a2260a35-2c9a-470d-a079-9274740ee7ea)
+  )
+  (fp_text value "Spark Gap" (at -3.557 -5.788 270 unlocked) (layer "Cmts.User") hide
+      (effects (font (size 1.524 1.524) (thickness 0.254)) (justify left bottom))
+    (tstamp fdcec401-bb4e-4398-86ae-1739d5237401)
+  )
+  (pad "1" thru_hole rect (at 0 0 45) (size 1.016 1.016) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.1016) (solder_paste_margin -2.5146) (thermal_bridge_angle 45) (tstamp 42d139e5-cbc4-4b20-866e-4bf351cd9e2b))
+)

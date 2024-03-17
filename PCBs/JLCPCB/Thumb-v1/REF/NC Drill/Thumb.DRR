@@ -1,0 +1,27 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Thumb.PcbDoc   12/14/2021  8:14:50 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Thumb-RoundHoles.TXT
+ASCII SlotHoles File : Thumb-SlotHoles.TXT
+ASCII RectHoles File : Thumb-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             1         PTH        0.00inch (0.00mm)
+T2      16mil (0.4mm)                                             Round             172       PTH        39.78inch (1010.48mm)
+T3      18mil (0.45mm)                                            Round             4         PTH        0.20inch (5.20mm)
+T4      20mil (0.508mm)                                           Round             28        PTH        12.50inch (317.49mm)
+T5      24mil (0.6mm)                                             Round             5         PTH        2.75inch (69.81mm)
+T6      24mil (0.6mm)                                             Slot              5         PTH        1.59inch (40.51mm)
+T7      28mil (0.7mm)                                             Round             16        PTH        1.40inch (35.63mm)
+T8      39mil (1mm)                                               Round             4         PTH        0.40inch (10.16mm)
+T9      40mil (1.016mm)                                           Round             4         PTH        1.35inch (34.21mm)
+T10     47mil (1.2mm)                                             Round             12        PTH        4.60inch (116.94mm)
+T11     102mil (2.6mm)                                            Round             3         PTH        4.31inch (109.43mm)
+T12     339mil (8.6mm)                                            Rectangle         1         NPTH       0.36inch (9.10mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              255
+
+Total Processing Time (hh:mm:ss) : 00:00:00

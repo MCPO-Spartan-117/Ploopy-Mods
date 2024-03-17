@@ -1,0 +1,18 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 8:14:49 PM On 12/14/2021
+
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Thumb.PcbDoc]
+   Generated File[Thumb-RoundHoles.TXT]
+   Generated File[Thumb-SlotHoles.TXT]
+   Generated File[Thumb-RectHoles.TXT]
+   Generated File[Thumb.LDP]
+   Generated File[Thumb.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 8:14:50 PM On 12/14/2021

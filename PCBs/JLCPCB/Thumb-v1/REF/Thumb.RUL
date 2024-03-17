@@ -1,0 +1,12 @@
+DRC Rules Export File for PCB: c:\net\data\arkservice\74a74620-d79f-4d26-8641-deb1b045b635\s\e\Thumb.PcbDoc
+RuleKind=Clearance|RuleName=HighV Pads|Scope=Board|Minimum=15.75
+RuleKind=Clearance|RuleName=Inter-Pad|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Spark Gaps|Scope=Board|Minimum=25.00
+RuleKind=Clearance|RuleName=FIDs|Scope=Board|Minimum=40.00
+RuleKind=Clearance|RuleName=Inner Planes|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Inner Layer Clearance|Scope=Board|Minimum=11.81
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.24
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=3.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=8.66
+RuleKind=Clearance|RuleName=All Planes|Scope=Board|Minimum=7.87
