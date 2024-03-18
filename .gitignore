@@ -1,0 +1,9 @@
+#Freecad
+*.FCBak
+
+#Kicad
+PCBs/**/*-backups
+archive_3d_models.log
+
+#CSV viewers
+*.csv#
