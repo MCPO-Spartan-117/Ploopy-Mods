@@ -7,3 +7,9 @@ archive_3d_models.log
 
 #CSV viewers
 *.csv#
+
+#Unwanted user models, usually from kicad to look at in freecad
+PCBs/**/*.FCStd
+PCBs/**/*.step
+PCBs/**/*.stp
+PCBs/**/*.wrl
