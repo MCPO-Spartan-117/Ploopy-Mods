@@ -9,8 +9,9 @@ You can visit their [store page here](https://ploopy.co) and the [firmware here]
 * P = PCB Replacements
 * M = Mods
 * P+M = PCB Replacement only Mods
+* P=M = PCB Replacement that require Mods
 
-[Ploopy Thumb Trackball](https://github.com/ploopyco/thumb-trackball): P
+[Ploopy Thumb Trackball](https://github.com/ploopyco/thumb-trackball): P P=M
 
 ## Directories:
 
