@@ -3,6 +3,9 @@
 This repo is a collection of [Ploopy Mouse](https://github.com/ploopyco) Kicad Conversions, PCB Replacements and mods.  
 You can visit their [store page here](https://ploopy.co) and the [firmware here](https://github.com/qmk/qmk_firmware) or their [website here](https://qmk.fm).
 
+## Test state
+Nothing has been tested, make any of this at your own risk.
+
 ## Currently has mods for:
 
 * K = Kicad Conversions
